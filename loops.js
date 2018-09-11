@@ -9,10 +9,10 @@ function forLoop(array){
   }
   return array;
 }
-function  whileLoop(n){
-  let n = 25;
-  while(n>0){
-    console.log(--n)
+function  whileLoop(num){
+  let num = 25;
+  while(num>0){
+    console.log(--num)
   }
   return "done"
 }
